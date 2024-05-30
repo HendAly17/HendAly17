@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HendAly17
-- 👀 I’m interested in AI and machine Learning
-- 🌱 I’m currently learning Computer and Communication Engineering
-- 💞️ I’m looking to collaborate on AI and machine Learning
+- 👀 I’m interested in Mobile Development, Database Systems, AI and machine Learning
+- 🌱 I’m currently a senior student at Computer and Communication Engineering Department
 - 📫 How to reach me : hendaly1792001@gmail.com
 
 <!---
